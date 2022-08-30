@@ -15,7 +15,7 @@ Aswin</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning React and Native React<a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning React and Native React
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
