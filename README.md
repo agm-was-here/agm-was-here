@@ -11,11 +11,11 @@ Aswin</a></h1>
 
 - 🔭 I’m currently working to develop my skills
 
-- 🌱 I’m currently Working on React and nodejs
+- 🌱 I’m currently Working on django and nodejs
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning React and Native React<a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
